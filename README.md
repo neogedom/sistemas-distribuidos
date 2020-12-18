@@ -3,3 +3,4 @@ Códigos usados para aulas de Sistemas Distribuídos. Contém código para exemp
 - Primitivas de Comunicação (TCP e UDP com Sockets)
 - Multicast
 - Protocolo Requisição Resposta
+- Remote Method Invocation (RMI)
